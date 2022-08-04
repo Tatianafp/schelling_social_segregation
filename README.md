@@ -1,1 +1,0 @@
-# schelling_social_segregation
